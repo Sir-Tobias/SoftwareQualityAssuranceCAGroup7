@@ -47,7 +47,7 @@ During code reviews the code itself is reviewed and ensured it follows the key p
 
 When a code review is being undertaken it is important for the reviewer to keep the coder informed on their progress through the review.
 
-Kepping both parties in the loop helps the reviwer have an understnading of the coders thought process and logic in certain areas.
+Keeping both parties in the loop helps the reviwer have an understnading of the coders thought process and logic in certain areas.
 
 If thing are unclear the reviwer will leave in their reviwe for an improvement in commenting and processes.
 
