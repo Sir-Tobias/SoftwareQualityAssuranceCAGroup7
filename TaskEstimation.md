@@ -1,17 +1,3 @@
-# Task Estimation in Scrum
-
-Paragraph One.
-
-
-## Examples
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 # <center> **Task Estimation in Scrum** </center>
 
 <br>
@@ -65,7 +51,9 @@ Task estimation is the process of finding an approximation. In other words a val
     A series of numbers in which each number ( *Fibonacci number*
      ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc
     
-    ![Fibonnaci.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d76895d-4ac9-4dd5-accc-b1142dde2510/Fibonnaci.png)
+    <p align = "center">
+  <img width="200" height="200" src="Fibonnaci.PNG">
+</p>
     
     Some teams use T-Shirt Sizing as a measure
     
@@ -77,6 +65,6 @@ Task estimation is the process of finding an approximation. In other words a val
     
     Story point estimation usually takes place during the product backlog refinement sessions. The product owner doesn’t estimate during the session but they are responsible for explaining the user stories to the team.
     
-    Before estimation starts the team finds a reference user story
+    Before estimation starts the team finds a reference user story that everyone in the team understands and can resonate with. Once the story is defined they then estimate the other user stories by comparing it to the reference story.
 <br>
 
