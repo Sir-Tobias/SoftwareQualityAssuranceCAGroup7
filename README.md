@@ -48,6 +48,31 @@ Software Quality Assurance Group 7 CA
 <br>
 
 # <center> **Coding Standards** </center>
+<br>
+
+<p align = "center">
+  <img width="200" height="200" src="https://img.icons8.com/ios/50/000000/rules.png">
+</p>
+
+### **Introduction**
+
+<br>
+
+
+The term coding standards refers to a set of guidelines/recommendations programmers should follow to improve code readability and make for easier maintenance.
+Each programming language has their own set of coding standards but they all tend to include rules for the same things such as naming conventions, indentation, leaving comments etc..
+
+
+<br>
+
+
+#### **Benefits of Coding Standards**
+
+- Makes the code uniform, it looks and reads as though it has all been written by one person.
+- Enables code to be reused.
+- Makes it easier to spot and debug errors in code.
+- Improves readability and makes code easier to maintain.
+- Makes life easier for programmers as they don’t have to design their own best way of naming, indenting, adding comments to code etc. they can just follow convention.
 
 
 
