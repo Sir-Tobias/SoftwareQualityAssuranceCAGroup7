@@ -51,16 +51,13 @@ Task estimation is the process of finding an approximation. In other words a val
     A series of numbers in which each number ( *Fibonacci number*
      ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc
     
-    <p align = "center">
-  <img width="200" height="200" src="Fibonnaci.PNG">
-</p>
-    
     Some teams use T-Shirt Sizing as a measure
     
     What is t-shirt sizing?
     
     T-shirt sizing is a relative estimation technique that uses t-shirt sizes rather than a number of planning poker.
     
+
     ![tshirt sizingi.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de03c7b0-7bbf-4cbe-87b1-c01d99c1733e/tshirt_sizingi.png)
     
     Story point estimation usually takes place during the product backlog refinement sessions. The product owner doesn’t estimate during the session but they are responsible for explaining the user stories to the team.
