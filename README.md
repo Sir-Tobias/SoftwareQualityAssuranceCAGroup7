@@ -211,7 +211,7 @@ What is the Fibonacci Sequence?
 A series of numbers in which each number ( *Fibonacci number*
  ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc
 
-![Fibonnaci.PNG](Fibonnaci.png?raw=true)
+![Fibonnaci image](Fibonnaci.png?raw=true)
 
 Some teams use T-Shirt Sizing as a measure
 
@@ -219,7 +219,7 @@ What is t-shirt sizing?
 
 T-shirt sizing is a relative estimation technique that uses t-shirt sizes rather than a number of planning poker.
 
-![tshirt sizingi.PNG](tshirt_sizingi.png?raw=true)
+![tshirt sizingi image](tshirt_sizingi.png?raw=true)
 
 Story point estimation usually takes place during the product backlog refinement sessions. The product owner doesn’t estimate during the session but they are responsible for explaining the user stories to the team.
 
