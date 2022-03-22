@@ -219,7 +219,7 @@ What is t-shirt sizing?
 
 T-shirt sizing is a relative estimation technique that uses t-shirt sizes rather than a number of planning poker.
 
-![tshirt sizingi image](T-shirt sizing.png?raw=true)
+![tshirt sizingi image](tshirt.png?raw=true)
 
 Story point estimation usually takes place during the product backlog refinement sessions. The product owner doesn’t estimate during the session but they are responsible for explaining the user stories to the team.
 
