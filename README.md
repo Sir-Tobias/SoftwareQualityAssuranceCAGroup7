@@ -65,7 +65,7 @@ Each programming language has their own set of coding standards but they all ten
 <br>
 
 
-#### **Benefits of Coding Standards**
+### **Benefits of Coding Standards**
 
 - Makes the code uniform, it looks and reads as though it has all been written by one person.
 - Enables code to be reused.
@@ -73,9 +73,79 @@ Each programming language has their own set of coding standards but they all ten
 - Improves readability and makes code easier to maintain.
 - Makes life easier for programmers as they don’t have to design their own best way of naming, indenting, adding comments to code etc. they can just follow convention.
 
+<br>
+
+## **Why are code standards important?**
+**Two main reasons for the use of code standards are:**
+<br>
+
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/windows/96/000000/performance-2.png">
+</p>
+
+**Performance**
+<br>
+Poor quality code is harder work with and leads to performance issues for both the end user and people working with the code directly. Coding standards serve to solve this by offering guidelines that improve code quality and reduce errors and make the code more efficient to run and to work with. 
+<br>
+
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/ios/100/000000/private2.png">
+</p>
+
+**Security**
+<br>
+When code is buggy, has logical errors or is even just inconsistent in the way its written it becomes vulnerable to attack. Coding standards work to remove faulty code thus making it more secure.
 
 
+<br>
 
+## **Common things seen in coding standards:**
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/material-outlined/96/000000/globe--v1.png">
+</p>
+
+### **Use of Globals** 
+How often and where programmers should use global variables.
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/ios-glyphs/96/000000/--camel.png">
+</p>
+
+### **Naming Conventions:**
+Programmers should indicate if a variable is local, global, a constant or a function by the way its name is declared. This is most often done through the use of camel case and capitalisation. Names should also be descriptive and kept as short as possible.
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/ios/96/000000/shift.png">
+</p>
+
+### **Indentation:**
+This is one of the most important factors for code readability, tightly packed code becomes unreadable very quickly. This can be avoided by following indentation standards such as indenting and spacing each nested block of code.
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/ios/96/000000/length.png">
+</p>
+
+### **Function Length:**
+Longer functions become very difficult to follow so it’s encouraged they are broken into smaller parts for each task the function is carrying out. 
+<p align = "left">
+  <img width="100" height="100" src="https://img.icons8.com/material-outlined/96/000000/comments--v1.png">
+</p>
+
+### **Documentation**
+Programmers should document their code using comments so as if another person has to work with the code  they can quickly understand what is going on.
+
+<br>
+
+## **Conclusion**
+Coding standards help in generating code that is easy to read, understand and maintain. This improves code security and makes working with the code more efficient which benefits both the end user and programmers. It’s for these reasons why it’s important to adhere to existing coding standards wherever possible and to be thorough when designing standards of your own. 
+
+<br>
+
+## **Articles**
+
+<ol>
+  <li> <a href="https://www.geeksforgeeks.org/coding-standards-and-guidelines/">https://www.geeksforgeeks.org/coding-standards-and-guidelines/</a> </li>
+  <li> <a href="https://www.browserstack.com/guide/coding-standards-best-practices#:~:text=Practices%20To%20Follow-,What%20are%20Coding%20Standards%3F,sophisticated%20and%20highly%20functional%20code.">https://www.browserstack.com/guide/coding-standards-best-practices.</a> </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Coding_conventionsw">https://en.wikipedia.org/wiki/Coding_conventions</a> </li>
+  <li> <a href="https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/">https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/</a> </li>
+</ol>
 
 
 
