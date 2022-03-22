@@ -211,7 +211,7 @@ What is the Fibonacci Sequence?
 A series of numbers in which each number ( *Fibonacci number*
  ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc
 
-![Fibonnaci.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d76895d-4ac9-4dd5-accc-b1142dde2510/Fibonnaci.png)
+![Fibonnaci image](Fibonnaci.png?raw=true)
 
 Some teams use T-Shirt Sizing as a measure
 
@@ -219,7 +219,7 @@ What is t-shirt sizing?
 
 T-shirt sizing is a relative estimation technique that uses t-shirt sizes rather than a number of planning poker.
 
-![tshirt sizingi.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de03c7b0-7bbf-4cbe-87b1-c01d99c1733e/tshirt_sizingi.png)
+![tshirt sizingi image](tshirt_sizingi.png?raw=true)
 
 Story point estimation usually takes place during the product backlog refinement sessions. The product owner doesn’t estimate during the session but they are responsible for explaining the user stories to the team.
 
@@ -242,12 +242,33 @@ With a bottom-up approach, companies first determine the details of a plan or bu
 A top-down approach is often more efficient than a bottom-up approach for many reasons. When you use a top-down approach, the managers or other major company stakeholders create a project plan or budget on their own. Since they haven't yet determined the project details and exact costs, a top-down estimate would usually be more time efficient to make than a bottom-up estimate.
 
 On the other hand a bottom-up approach can more efficiently handle challenges as the project gets underway than a top-down approach. Since a bottom-up approach begins with the details of a project, a bottom-up plan may minimize the risks or unexpected issues that arise as the project develops.
+
+**Planning Poker**
+
+Planning poker is one of the most popular gross level estimation techniques. It is also known as “Scrum Poker” and “Pointing Poker”, is a gamified technique that development teams use to guess the effort of project management tasks. These estimations are based on the entire group's input and consensus, making them more engaging and accurate than other methods.
+
+During my internship with Travelport my team used a lot of different agile estimation techniques but my favourite was using planning poker. My internship took place during covid so we used the online version of planning poker. The process of voting was very straight-forward. The team takes time to discuss the user story for a couple of minutes, then each team member will privately select a card representing his/her estimate. When everybody is ready all the selected cards will be revealed in person or in my case on screen. If the majority of the team had similar numbers then the user story would be set to that number. If anybody in the team had a very contrasting vote they will be given an opportunity to explain their vote and often times a revote if their point is valid.
+
+![planning poker](planningpoker1.png?raw=true)
 <br>
 
 ## **Articles**
 
 <ol>
   <li> <a href="https://agiledigest.com/agile-digest-tutorial-2/agile-estimation-2/">https://agiledigest.com/agile-digest-tutorial-2/agile-estimation-2/</a> </li>
+
+  <li> <a href="https://hubstaff.com/tasks/agile-estimation-techniques
+">https://hubstaff.com/tasks/agile-estimation-techniques
+/</a> </li>
+
+  <li> <a href="https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110">https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110
+/</a> </li>
+
+  <li> <a href="https://www.indeed.com/career-advice/career-development/agile-estimation-techniques">https://www.indeed.com/career-advice/career-development/agile-estimation-techniques
+/</a> </li>
+
+  <li> <a href="https://www.projectpractical.com/bottom-up-estimating-explained-with-examples/">https://www.projectpractical.com/bottom-up-estimating-explained-with-examples/
+/</a> </li>
 </ol>
 
 <br>
