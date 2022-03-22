@@ -195,7 +195,6 @@ A story point is the number that tells the team about the effort required to imp
 
 
 **Factors to consider when estimation story points**
-
 <br>
 
 ![Story point estimation](StoryPointEstimation.png?raw=true)
