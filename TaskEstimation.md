@@ -1,17 +1,3 @@
-# Task Estimation in Scrum
-
-Paragraph One.
-
-
-## Examples
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 # <center> **Task Estimation in Scrum** </center>
 
 <br>
@@ -37,16 +23,16 @@ Task estimation is the process of finding an approximation. In other words a val
 - Plan the resources needed
 - Decide the work scope
 
-### Challenges faced in Traditional Estimation
+#### Challenges faced in Traditional Estimation
 
-- Needs all the requirements before estimating ]
-- Too much time spent on estimation
-- There is a re-estimation of the entire project if one requirement is changed
-- In traditional estimation only a manager or expert will make the estimation
+- Needs all the requirements before estimating.
+- Too much time spent on estimation.
+- There is a re-estimation of the entire project if one requirement is changed.
+- In traditional estimation only a manager or expert will make the estimation.
 
-### Types of Agile Estimation
+#### Types of Agile Estimation
 
-- Story point estimation
+**Story point estimation**
     
     Relative estimation means that you judge how big or complex a task is with respect to other tasks within your sprint. One of the unit of complexities that can be used in this is story point estimation.
     
@@ -65,18 +51,17 @@ Task estimation is the process of finding an approximation. In other words a val
     A series of numbers in which each number ( *Fibonacci number*
      ) is the sum of the two preceding numbers. The simplest is the series 1, 1, 2, 3, 5, 8, etc
     
-    ![Fibonnaci.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d76895d-4ac9-4dd5-accc-b1142dde2510/Fibonnaci.png)
-    
     Some teams use T-Shirt Sizing as a measure
     
     What is t-shirt sizing?
     
     T-shirt sizing is a relative estimation technique that uses t-shirt sizes rather than a number of planning poker.
     
+
     ![tshirt sizingi.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de03c7b0-7bbf-4cbe-87b1-c01d99c1733e/tshirt_sizingi.png)
     
     Story point estimation usually takes place during the product backlog refinement sessions. The product owner doesn’t estimate during the session but they are responsible for explaining the user stories to the team.
     
-    Before estimation starts the team finds a reference user story
+    Before estimation starts the team finds a reference user story that everyone in the team understands and can resonate with. Once the story is defined they then estimate the other user stories by comparing it to the reference story.
 <br>
 
