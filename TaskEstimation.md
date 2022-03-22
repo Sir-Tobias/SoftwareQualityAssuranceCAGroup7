@@ -23,16 +23,16 @@ Task estimation is the process of finding an approximation. In other words a val
 - Plan the resources needed
 - Decide the work scope
 
-### Challenges faced in Traditional Estimation
+#### Challenges faced in Traditional Estimation
 
-- Needs all the requirements before estimating ]
-- Too much time spent on estimation
-- There is a re-estimation of the entire project if one requirement is changed
-- In traditional estimation only a manager or expert will make the estimation
+- Needs all the requirements before estimating.
+- Too much time spent on estimation.
+- There is a re-estimation of the entire project if one requirement is changed.
+- In traditional estimation only a manager or expert will make the estimation.
 
-### Types of Agile Estimation
+#### Types of Agile Estimation
 
-- Story point estimation
+**Story point estimation**
     
     Relative estimation means that you judge how big or complex a task is with respect to other tasks within your sprint. One of the unit of complexities that can be used in this is story point estimation.
     
