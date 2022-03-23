@@ -154,6 +154,8 @@ Coding standards help in generating code that is easy to read, understand and ma
   <li> <a href="https://www.browserstack.com/guide/coding-standards-best-practices#:~:text=Practices%20To%20Follow-,What%20are%20Coding%20Standards%3F,sophisticated%20and%20highly%20functional%20code.">https://www.browserstack.com/guide/coding-standards-best-practices.</a> </li>
   <li> <a href="https://en.wikipedia.org/wiki/Coding_conventionsw">https://en.wikipedia.org/wiki/Coding_conventions</a> </li>
   <li> <a href="https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/">https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/</a> </li>
+  <li> <a href="https://app.works/the-impact-of-naming-conventions-on-code-readability//">https://app.works/the-impact-of-naming-conventions-on-code-readability//</a> </li>
+  
 </ol>
 
 
