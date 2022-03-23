@@ -61,6 +61,7 @@ Software Quality Assurance Group 7 CA
 The term coding standards refers to a set of guidelines/recommendations programmers should follow to improve code readability and make for easier maintenance.
 Each programming language has their own set of coding standards but they all tend to include rules for the same things such as naming conventions, indentation, leaving comments etc..
 
+![Coding standards](codingstandards.png?raw=true)
 
 <br>
 
