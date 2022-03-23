@@ -317,7 +317,7 @@ Code reviews are generally conducted by peers and are often referred to as peer 
 
 Reviews are intended to point out the positive and negative aspects of a project.
 
-
+![Code Reviews image](codereviews.png?raw=true)
 
 <br>
 
