@@ -112,6 +112,14 @@ How often and where programmers should use global variables.
 
 ### **Naming Conventions:**
 Programmers should indicate if a variable is local, global, a constant or a function by the way its name is declared. This is most often done through the use of camel case and capitalisation. Names should also be descriptive and kept as short as possible.
+
+<br>
+
+<p align = "left">
+  <img width="500" height="200" src="https://app.works/wp-content/uploads/2021/06/CRB1-768x320.png">
+</p>
+
+<br>
 <p align = "left">
   <img width="100" height="100" src="https://img.icons8.com/ios/96/000000/shift.png">
 </p>
